@@ -1,6 +1,5 @@
 # Lanux Archives
 
-![Lanux Archives Logo](logo.png) <!-- Eğer bir logo ekleyeceksen -->
 
 **Lanux Archives**, Lanux tarafından geliştirilen ve henüz yayınlanmamış, açık kaynaklı projelerin bir arşividir. Bu projede, geliştirme sürecinde olan veya farklı nedenlerle yayınlanmamış projeler toplanmakta ve erişilebilir hale getirilmektedir.
 

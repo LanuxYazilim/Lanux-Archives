@@ -1,0 +1,24 @@
+{
+  "name": "lanux-chat",
+  "version": "1.0.0",
+  "main": "main.js",
+  "author": "Lanux",
+  "description": "Lanux Chat masaüstü uygulaması",
+  "scripts": {
+    "start": "electron .",
+    "dist": "electron-builder"
+  },
+  "build": {
+    "appId": "com.lanux.chat",
+    "productName": "Lanux Chat",
+    "win": {
+      "target": "nsis",
+      "icon": "icon.ico"
+    }
+  },
+  "devDependencies": {
+    "electron-builder": "^26.0.12",
+    "electron": "^31.0.0"
+  },
+  "dependencies": {}
+}

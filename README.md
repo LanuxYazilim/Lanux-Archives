@@ -20,7 +20,7 @@ Arşivde bulunan projeler:
 
 | Proje Adı | Açıklama | Durum | Dil | Bağlantı |
 |------------|----------|-------|-------|-----------|
-| L122S | Mesajlaşma Programı | Geliştirme | Python| [Dosyalar](https://github.com/LanuxYazilim/Lanux-Archives/tree/main/L122S) |
+| L122S | Mesajlaşma Programı | Beklemede | Python| [Dosyalar](https://github.com/LanuxYazilim/Lanux-Archives/tree/main/L122S) |
 | L256P | Laxord Pc Uygulaması | Yayınlandı | JavaScript | [Dosyalar](https://github.com/LanuxYazilim/Lanux-Archives/tree/main/L256P) |
 
 > Liste güncellenmeye devam edecektir.
